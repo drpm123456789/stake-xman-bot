@@ -1,0 +1,22 @@
+# Node.js
+
+# Logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+node_modules/
+
+# Build directories
+dist/
+
+# Electron
+**/electron/*
+**/build/*
+**/release/*
+
+# macOS
+.DS_Store
+
+# Visual Studio Code
+.vscode/
